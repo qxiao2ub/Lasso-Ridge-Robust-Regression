@@ -1,5 +1,5 @@
 ---
-title: "CSCI E-106:Assignment 8-by:Qingyang Xiao"
+title: ""
 output: pdf_document
 ---
 
@@ -7,12 +7,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Due Date: April 12, 2024 at 11:59 pm EST
-### Instructions
 
-Students should submit their reports on Canvas. The report needs to clearly state what question is being solved, step-by-step walk-through solutions, and final answers clearly indicated. Please solve by hand where appropriate.
-
-Please submit two files: (1) a R Markdown file (.Rmd extension) and (2) a PDF document, word, or html generated using knitr for the .Rmd file submitted in (1) where appropriate. Please, use RStudio Cloud for your solutions.
 
 --------------------------------------------------------------------------------------
 
